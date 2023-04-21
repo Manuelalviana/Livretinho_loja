@@ -1,0 +1,21 @@
+.cabecalho-logo{
+    Font-size:2em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:600;
+    color:#f5f5f5;
+    margin-left:20px;
+  }
+  .cabecalho_logo2{
+    float:right;
+    width:150px;
+    margin-right:50%;
+  }
+img{
+    max-width:400px;
+}
+.logos > .logo > img{
+    width:25px;
+}
+body{
+    background-color: azure;
+}
